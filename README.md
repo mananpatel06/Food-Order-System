@@ -1,6 +1,8 @@
 # Food-Order-System-
 Food Order System in java NetBeans.
 
+Select categories , select checkbox , enter quantity and press Total button. 
+
 Output :
 
 
